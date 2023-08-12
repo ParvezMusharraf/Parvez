@@ -1,5 +1,5 @@
 Hi 👋, I'm Parvez Musharraf
-A passionate Frontend developer from India
+A passionate Frontend developer from
 Pune
 
 
